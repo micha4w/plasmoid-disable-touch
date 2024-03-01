@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "micha4w@gmail.com",
+                "Name": "micha4w"
+            }
+        ],
+        "Category": "Windows and Tasks",
+        "Description": "Toggles Toucschreen, will leave stylus enabled",
+        "FormFactors": [
+            "desktop"
+        ],
+        "Icon": "assets/touchscreen-off.svg",
+        "Id": "ch.micha4w.disable-touch",
+        "License": "GPL-2.0+",
+        "Name": "Disable Touch",
+        "Version": "1.0"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
