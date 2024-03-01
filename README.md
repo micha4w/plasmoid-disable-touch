@@ -3,6 +3,9 @@
 Small Plasmoid that lets you disable the Touschreen, but keeps leaves the Stylus InputDevice untouched.
 So you write without having to worry about touch events happening due to your Hand moving on the Display.
 
+![enabled](./res/enabled.png)
+![disabled](./res/disabled.png)
+
 ## Installing
 ```sh
 git pull https://github.com/micha4w/plasmoid-disable-touch ~/.local/share/plasma/plasmoids/ch.micha4w.disable-touch
